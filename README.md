@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://silversunset.net/dbm/favicon.ico" width="30px"> (WIP) Discord Bot Maker Interactions <img src="https://raw.githubusercontent.com/LeonZ2019/dbm-interactions/master/interactions.svg?sanitize=true" height="30px">
+    <img src="https://silversunset.net/dbm/favicon.ico" width="30px"> (Abandoned Repo) Discord Bot Maker Interactions <img src="https://raw.githubusercontent.com/LeonZ2019/dbm-interactions/master/interactions.svg?sanitize=true" height="30px">
   </h1>
   <p>
     Full slash command actions and event for discord bot maker
